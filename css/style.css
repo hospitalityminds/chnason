@@ -103,10 +103,10 @@ input,button,select,textarea{
 	
 }
 
-.btn-success{
+.btn-danger{
 	border-radius: 25px; 
-	padding: 10px;
-	width: 100px;
+	padding: 13px;
+	width: 130px;
 }
 
 p{
@@ -1610,7 +1610,7 @@ img{
 	display: inline-block;
 	margin-right: 20px;
 	font-size: 20px;
-	color: #456580;
+	color: #E94B3C;
 	line-height: 24px;
 }
 
