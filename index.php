@@ -107,7 +107,7 @@
 							<li><a href="portfolio.php">Portfolio</a></li>
 							<li><a href="career.php">Career</a></li>
 							<li><a href="contact.php">Contact us</a></li>
-							<li style="border:2px groove;"><a href="tel:9967333442">Call</a></li>
+							<li style="border:2px groove;"><a href="tel:9999995077">Call</a></li>
 						</ul>
 					</nav>
 				</div>
@@ -153,7 +153,7 @@
 					<div class="col-md-8 col-md-offset-2">
 						<div class="col-md-12 text-center heading-section">
 							<h2>Lets have a conversation</h2>
-							<p><strong>Call or Whatsapp on 9967333442</strong></p>
+							<p><strong>Call or Whatsapp on 9999995077</strong></p>
 						</div>
 					</div>
 				</div>
@@ -228,7 +228,7 @@
 							<p>WE ARE BORN FOR HOTELS</p>
 							<p>Its never too late to start moving towards right direction, join hand with the passionate professionals of Hospitality Industry and lead to success.</p>
 
-							<button class="footercall"><a href="tel:9967333442">Call</a></button>
+							<button class="footercall"><a href="tel:9999995077">Call</a></button>
 							
 							
 						</div>
@@ -247,7 +247,7 @@
 						<div class="col-md-4 text-center">
 							<h2>Reach us</h2>
 							<p>001/D wing, Shree Krishna Complex, <br>Near National Park, Borivali(East), <br>Mumbai-400066</p>
-							<p><a href="tel:9967333442"><i class="icon-phone"></i> 9967333442</a></p>
+							<p><a href="tel:9999995077"><i class="icon-phone"></i> 9999995077</a></p>
 						</div>
 					</div>
 				</div>
