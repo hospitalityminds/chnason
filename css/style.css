@@ -82,7 +82,7 @@ body {
 a{
 	text-decoration:none;
 	cursor:pointer;
-	color:#FF8C00	;
+	color:#ebe3db	;
 }
 
 a:hover,a:focus,a:visited{
@@ -639,7 +639,7 @@ img{
 .main-menu .navigation > li:hover > a,
 .main-menu .navigation > li.current > a,
 .main-menu .navigation > li.current-menu-item > a{
-	color:#FF8C00	;
+	color:#fffdfb	;
 	opacity:1;
 	border-bottom:1px solid #FF8C00	;
 }
@@ -1611,7 +1611,7 @@ img{
 	display: inline-block;
 	margin-right: 20px;
 	font-size: 20px;
-	color: #E94B3C;
+	color: #FF8C00;
 	line-height: 24px;
 }
 
@@ -3295,7 +3295,7 @@ img{
 
 .our-gallery{
 	position:relative;
-	background-color:#E94B3CFF;
+	background-color:#F93822FF;
 }
 
 .our-gallery .left-column{
