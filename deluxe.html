@@ -15,7 +15,7 @@
 
         <link rel="stylesheet" href="css\font-awesome\css\font-awesome.min.css">
         <link rel="stylesheet" href="css\flaticon.css">
-
+        <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
       
         <link rel="shortcut icon" href="images/logo.png" type="image/x-icon">
         <link rel="icon" href="images/logo.png" type="image/x-icon">
@@ -167,10 +167,10 @@
                 <div class="auto-container">
                     <!--Title Box-->
                     <div class="title-box">
-                        <h2>Standard Rooms</h2>
+                        <h2>Deluxe Rooms</h2>
                         <ul>
                             <li><a href="index.html">Home</a></li>
-                            <li>Standard Rooms</li>
+                            <li>Deluxe Rooms</li>
                         </ul>
                     </div>
                 </div>
@@ -185,23 +185,129 @@
                 <div class="auto-container">
                     <div class="row clearfix">
                         <div class="col-md-12 pagemaintext">
-                            <h3 align="center"><a href="deluxe.html">Standard Rooms</a></h3>
+                            <h3 align="center" style="font-weight:600;font-size:29px;
+                            font-family: 'Hind', sans-serif !important"><a href="deluxe.html">Deluxe Rooms</a></h3>
                             <h5>Guests at Chanson Hotels  are spoilt for choice when it comes to spending their time here in lavish comfort. There are a variety of accommodations to choose from, all of them beautifully designed to blend with lush green environs, and yet featuring contemporary furnishings. Large windows to let in natural light, unforgettable views and timeless ambience: these are all par for the course in all our lodging spaces. 
                             </h5>
                         </div>
-
+                        <div class="container">
+                       
+                            <div id="myCarousel" class="carousel slide" data-ride="carousel">
+                                <!-- Indicators -->
+                                <ol class="carousel-indicators">
+                                    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+                                    <li data-target="#myCarousel" data-slide-to="1"></li>
+                                    <li data-target="#myCarousel" data-slide-to="2"></li>
+                                    <li data-target="#myCarousel" data-slide-to="3"></li>
+                                    <li data-target="#myCarousel" data-slide-to="4"></li>
+                                    <li data-target="#myCarousel" data-slide-to="5"></li>
+                                    <li data-target="#myCarousel" data-slide-to="6"></li>
+                                    <li data-target="#myCarousel" data-slide-to="7"></li>
+                                    <li data-target="#myCarousel" data-slide-to="8"></li>
+                                    <li data-target="#myCarousel" data-slide-to="9"></li>
+                                    <li data-target="#myCarousel" data-slide-to="10"></li>
+                                    <li data-target="#myCarousel" data-slide-to="11"></li>
+                                    <li data-target="#myCarousel" data-slide-to="12"></li>
+            
+                                </ol>
+            
+                                <!-- Wrapper for slides -->
+                                <div class="w3-content w3-display-container">
+            
+                                    <div class="w3-display-container mySlides">
+                                        <img src="images/room-12.JPG" alt="" style="width: 100%"/>
+            
+                                        <div class="w3-display-bottomleft w3-large w3-container w3-padding-16 w3-black">
+            
+                                        </div>
+                                    </div>
+            
+                                    <div class="w3-display-container mySlides">
+                                        <img src="images/room-11.JPG" alt="" style="width: 100%"/>
+                                        <div class="w3-display-bottomright w3-large w3-container w3-padding-16 w3-black">
+            
+                                        </div>
+                                    </div>
+            
+                                    <div class="w3-display-container mySlides">
+                                        <img src="images/room-10.JPG" alt="" style="width: 100%"/>
+                                        <div class="w3-display-bottomright w3-large w3-container w3-padding-16 w3-black">
+            
+                                        </div>
+                                    </div>
+            
+                                    <div class="w3-display-container mySlides">
+                                        <img src="images/room-5.jpg" alt="" style="width: 100%"/>
+                                        <div class="w3-display-bottomright w3-large w3-container w3-padding-16 w3-black">
+            
+                                        </div>
+                                    </div>
+            
+                                    <div class="w3-display-container mySlides">
+                                        <img src="images/room-3.jpg" alt="" style="width: 100%"/>
+                                        <div class="w3-display-bottomright w3-large w3-container w3-padding-16 w3-black">
+            
+                                        </div>
+                                    </div>
+                                    <div class="w3-display-container mySlides">
+                                        <img src="images/room-5.jpg" alt="" style="width: 100%"/>
+                                        <div class="w3-display-bottomright w3-large w3-container w3-padding-16 w3-black">
+            
+                                        </div>
+                                    </div>
+            
+                                    <div class="w3-display-container mySlides">
+                                        <img src="images/room-6.jpg" alt="" style="width: 100%"/>
+                                        <div class="w3-display-bottomright w3-large w3-container w3-padding-16 w3-black">
+            
+                                        </div>
+                                    </div>
+                                    
+                                   
+                                    <button class="w3-button w3-display-left w3-black" onclick="plusDivs(-1)">&#10094;</button>
+                                    <button class="w3-button w3-display-right w3-black" onclick="plusDivs(1)">&#10095;</button>
+            
+                                </div>
+                             </div>
+                             
+                                <script>
+                                    var slideIndex = 1;
+                                    showDivs(slideIndex);
+            
+                                    function plusDivs(n) {
+                                        showDivs(slideIndex += n);
+                                    }
+            
+                                    function showDivs(n) {
+                                        var i;
+                                        var x = document.getElementsByClassName("mySlides");
+                                        if (n > x.length) {
+                                            slideIndex = 1;
+                                        }
+                                        if (n < 1) {
+                                            slideIndex = x.length;
+                                        }
+                                        for (i = 0; i < x.length; i++) {
+                                            x[i].style.display = "none";
+                                        }
+                                        x[slideIndex - 1].style.display = "block";
+                                    }
+                                </script>
+            
+                            </div>	
+                            <!--Gallery Page Section-->
+            
+                            <br>
                         <div class="rate-block col-md-12 col-sm-12 col-xs-12">
                             <div class="inner-box">
                                 <!--Image Box-->
-                                <div class="image-box">
-                                    <a href=""><img src="images/room-2.jpg" alt="" /></a>
-                                </div>
+                                
                                 <!--Lower Content-->
-                                <div class="lower-content">
+                                <div class="lower-content inner-box">
 
                                     <div class="upper-box">
                                         <div class="title-box">
-                                            <h3><a href="single-room.html">Standard Rooms</a></h3>
+                                            <h3><a href="single-room.html">Deluxe Rooms</a></h3>
                                             <div class="stars">
                                                 <span class="fa fa-star"></span>
                                                 <span class="fa fa-star"></span>
@@ -211,7 +317,7 @@
                                             </div>
                                         </div>
 
-                                        <div class="text">Comfortable lodgings for the discerning traveller, the deluxe room�s spacious yet snug ambience makes for a delightful living experience, while the real prize is the unforgettable view. </div>
+                                        <div class="text">Comfortable lodgings for the discerning traveller, the deluxe rooms spacious yet snug ambience makes for a delightful living experience, while the real prize is the unforgettable view. </div>
                                         <!--List Style One-->
                                         <ul class="list-style-one">
                                             <li>Individually Controlled Air Conditioning</li>
