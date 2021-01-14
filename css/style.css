@@ -99,9 +99,19 @@ h1,h2,h3,h4,h5,h6 {
 	line-height:1.6em;
 }
 
-input,button,select,textarea{
-	
-}
+.swiper-container {
+	width: 100%;
+	padding-top: 50px;
+	padding-bottom: 50px;
+  }
+
+  .swiper-slide {
+	background-position: center;
+	background-size: cover;
+	width: 300px;
+	height: 300px;
+
+  }
 .widget-content i{
 	color: orange;
 }
@@ -3164,7 +3174,7 @@ img{
 
 .rate-section{
 	position:relative;
-	padding:110px 0px 20px;
+	padding:30px 0px 0px;
 }
 
 .rate-section .row{
