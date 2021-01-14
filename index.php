@@ -12,8 +12,8 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<title>Hospitality Minds | Born For Hotels</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<meta name="description" content="Hospitality Minds offers complete range of Hospitality IT solutions, Online Reputation and Revenue Management services for hotels and s in India." />
-	<meta name="keywords" content="Hospitality Minds, Revenue Management, social media hotels, website design hotels, hotels sales Support, OTA business, hotel business plan, hospitalitymindsS" />
+	<meta name="description" content="Hospitality Minds offers complete range of Hospitality IT solutions, Online Reputation and Revenue Management services for Hotels and s in India." />
+	<meta name="keywords" content="Hospitality Minds, Revenue Management, social media Hotels, website design Hotels, Hotels sales Support, OTA business, Hotels business plan, hospitalitymindsS" />
 	
 
   
@@ -75,7 +75,7 @@
 								<div class="animate-box">
 									<h1>Your Growth Guaranteed</h1>
 									<h2>Hospitality Minds</h2>
-									<p><span>BORN FOR HOTELS</span></p>
+									<p><span>BORN FOR Hotels</span></p>
 								</div>
 							</div>
 						</div>
@@ -126,7 +126,7 @@
 						</div>
 						<div class="col-md-1 nopadding"><h2 class="amp-center"><i class="icon-plus"></i></h2></div>
 						<div class="col-md-3 nopadding">
-							<img src="images/hotels.jpg" class="img-responsive" alt="">
+							<img src="images/Hotels.jpg" class="img-responsive" alt="">
 							<h3>Hotels</h3>
 						</div>
 						<div class="col-md-2 nopadding"><h2 class="amp-center halfmargin">
@@ -144,7 +144,7 @@
 						</div>
 						<div class="col-md-6 nopadding animate-box">
 							<div class="couple-desc">
-								<p>Are you facing challenges in understanding OTA business? afraid of reviews? Not getting enough bookings or calls for your hotel? Signup with us and get 100% solution to all your problems at cost effective rates.</p>
+								<p>Are you facing challenges in understanding OTA business? afraid of reviews? Not getting enough bookings or calls for your Hotels? Signup with us and get 100% solution to all your problems at cost effective rates.</p>
 							</div>
 						</div>
 					</div>
@@ -225,7 +225,7 @@
 				<div class="container">
 					<div class="row">
 						<div class="col-md-4">
-							<p>WE ARE BORN FOR HOTELS</p>
+							<p>WE ARE BORN FOR Hotels</p>
 							<p>Its never too late to start moving towards right direction, join hand with the passionate professionals of Hospitality Industry and lead to success.</p>
 
 							<button class="footercall"><a href="tel:9999995077">Call</a></button>
@@ -237,7 +237,7 @@
 						
 						
 							<p class="fh5co-social-icons">
-								<a href="https://twitter.com/born4hotels"><i class="icon-twitter2" target="_blank"></i></a>
+								<a href="https://twitter.com/born4Hotels"><i class="icon-twitter2" target="_blank"></i></a>
 								<a href="https://www.facebook.com/hospitalitymindsindia/" target="_blank"><i class="icon-facebook2"></i></a>
 								<a href="https://www.instagram.com/hospitalityminds/" target="_blank"><i class="icon-instagram"></i></a>
 								

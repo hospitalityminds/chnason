@@ -1,6 +1,6 @@
 <?php 
 
-	$to = 'chansonhotelmeera@gmail.com';//<-----Put Your email address here.
+	$to = 'chansonHotelsmeera@gmail.com';//<-----Put Your email address here.
 	$name = $emailid = $message =$phone= ""; 
 
 if(!empty($_POST['name']) && !empty($_POST['email'])){
@@ -16,7 +16,7 @@ if(!empty($_POST['name']) && !empty($_POST['email'])){
 		" Here are the details:\n Name: $name \n Email: $emailid \n Message: $msg \n phone: $phone";
 		
 	$headers =  'MIME-Version: 1.0' . "\r\n"; 
-	$headers .= 'From: Website query <chansonhotelmeera@gmail.com>' . "\r\n";
+	$headers .= 'From: Website query <chansonHotelsmeera@gmail.com>' . "\r\n";
 	$headers .= 'Content-type: text/html; charset=iso-8859-1' . "\r\n"; 
 		
 		
