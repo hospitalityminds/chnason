@@ -7,7 +7,7 @@
 4. Main Header 
 5. Main Slider
 6. About Us
-7. Hotel Rooms Carousel
+7. Hotels Rooms Carousel
 8. Services Section
 9. Two Item Gallery Section
 10. Events Section
@@ -102,7 +102,9 @@ h1,h2,h3,h4,h5,h6 {
 input,button,select,textarea{
 	
 }
-
+.widget-content i{
+	color: orange;
+}
 .btn-danger{
 	border-radius: 25px; 
 	padding: 13px;
@@ -4458,18 +4460,18 @@ img{
 /*** 
 
 ====================================================================
-	Hotel Booking
+	Hotels Booking
 ====================================================================
 
 ***/
 
-.hotel-booking{
+.Hotels-booking{
 	position:relative;
 	margin-top:42px;
 	margin-bottom:60px;
 }
 
-.hotel-booking h2{
+.Hotels-booking h2{
 	position:relative;
 	color:#263e5b;
 	font-size:30px;
@@ -4483,7 +4485,7 @@ img{
 	padding:120px 0px 85px 0px;
 }
 
-.book-hotel{
+.book-Hotels{
 	position:relative;
 	margin-bottom:80px;
 	background-color:#f9fafb;
