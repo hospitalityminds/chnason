@@ -1110,13 +1110,11 @@ img{
 }
 
 .main-slider .tparrows.tp-leftarrow.preview3::after{
-	content: '\f104';
-	font-family:'FontAwesome';
+	font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f060";
 }
 
 .main-slider .tparrows.tp-rightarrow.preview3::after{
-	content: '\f105';
-	font-family:'FontAwesome';
+	font-family: "Font Awesome 5 Free"; font-weight: 900; content: "\f061";
 }
 
 .main-slider .tparrows.preview3.tp-leftarrow{
@@ -1292,7 +1290,7 @@ img{
 
 .sec-title{
 	position:relative;
-	margin-bottom:50px;
+	margin-bottom:10px;
 }
 
 .sec-title h2{
@@ -1303,7 +1301,7 @@ img{
 	color:#132e45;
 	line-height:1em;
 	z-index:2;
-	padding:50px 35px 20px;
+	padding:27px 35px 20px;
 	text-transform:capitalize;
 	border:1px solid #e6edf2;
 	display:inline-block;
